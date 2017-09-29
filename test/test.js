@@ -61,7 +61,5 @@ describe("Getty api call", function() {
             done(); 
         });
     }); 
-    
-    
-    
+    // This is a comment
 }); 
